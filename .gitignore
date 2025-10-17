@@ -1,0 +1,7 @@
+# .gitignore
+# Local environment variables containing API keys
+.env
+# Local vector database storage (ChromaDB)
+chroma_data/
+# 🛑 VIRTUAL ENVIRONMENT - DO NOT COMMIT 🛑
+.venv/

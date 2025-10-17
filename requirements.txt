@@ -1,0 +1,9 @@
+# requirements.txt
+langchain
+langchain-google-genai
+pydantic
+python-dotenv
+requests
+chromadb
+# 🚨 ADD THIS LINE 🚨
+langchain-community

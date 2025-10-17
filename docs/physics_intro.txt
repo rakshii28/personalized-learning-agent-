@@ -1,0 +1,6 @@
+# docs/physics_intro.txt
+Quantum Entanglement: A fundamental concept where two or more particles are linked in such a way that the quantum state of each particle cannot be described independently of the others, even when the particles are separated by a large distance. This is key to understanding quantum computing and advanced physics. Students who prefer visual learning should watch the Veritasium video on the Bell Test.
+
+Classical Thermodynamics: Focuses on heat and its relation to other forms of energy and work. The three main laws are critical. The First Law is conservation of energy. The Second Law introduces entropy (disorder). Weaknesses in the last thermodynamics quiz were often related to calculating entropy change in irreversible processes. Kinesthetic learners benefit most from problem-solving sessions and physical models of heat engines.
+
+Recommended Problem Set 3.4: This set focuses entirely on calculating entropy changes and applying the Second Law of Thermodynamics. Reading/Writing learners should complete this set.

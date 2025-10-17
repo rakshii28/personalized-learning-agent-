@@ -1,0 +1,7 @@
+Data Structures: Hash Tables are key-value pairs offering O(1) average lookup time. **Visual learners** benefit from a diagram showing collision resolution techniques like open addressing.
+
+Algorithms: Quicksort utilizes a divide-and-conquer strategy. **Reading/Writing learners** should focus on analyzing the detailed pseudocode for the partitioning step to understand its mechanics.
+
+Programming Practice: **Kinesthetic learners** master recursion best by running a small Python program and tracing the stack calls by hand. Focus on the base case for stopping the call sequence in Python.
+
+Web Development: The lifecycle of a React component is essential for modern frontends. **Auditory learners** should listen to a lecture explaining the mounting, updating, and unmounting phases.
