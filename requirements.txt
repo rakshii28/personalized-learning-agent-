@@ -1,5 +1,7 @@
 # requirements.txt
 langchain
+streamlit
+pandas
 langchain-google-genai
 pydantic
 python-dotenv
